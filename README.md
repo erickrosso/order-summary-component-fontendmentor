@@ -2,7 +2,7 @@
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Welcome! 👋 ----- https://erickrosso.github.io/order-summary-component-fontendmentor/ -----
 
 Thanks for checking out this front-end coding challenge.
 
